@@ -18,7 +18,7 @@ Soy estudiante de Ingeniería en Sistemas, apasionado por la tecnología y el de
 ### Lenguajes de programación
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java" alt="Lenguajes de programación" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,java" alt="Lenguajes de programación" />
 </p>
 
 ### Frameworks y desarrollo

@@ -18,14 +18,28 @@ Soy estudiante de Ingeniería en Sistemas, apasionado por la tecnología y el de
 ### Lenguajes de programación
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,java" alt="Lenguajes de programación" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java" alt="Lenguajes de programación" />
 </p>
 
 ### Frameworks y desarrollo
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,expo,bootstrap" alt="Frameworks y herramientas de desarrollo" />
+  <img src="https://skillicons.dev/icons?i=react,react native,expo,bootstrap" alt="Frameworks y herramientas de desarrollo" />
 </p>
+
+### 🌐 HTML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5" />
+</p>
+
+
+### 🎨 CSS
+
+<p>
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3" />
+</p>
+
 
 ### Bases de datos y herramientas
 

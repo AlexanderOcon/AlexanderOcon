@@ -42,22 +42,20 @@ Aplicación web orientada al comercio electrónico.
 
 🔗 [Ver repositorio](https://github.com/AlexanderOcon/TiendaVirtual)
 
-### 🐱 Backend Gatos Correcciones
-Proyecto enfocado en el desarrollo y corrección de funcionalidades del backend.
+### 🍔 FastBiteMovil
+Aplicación móvil para la gestión de pedidos de comida rápida, desarrollada con React Native y Expo.
 
-🔗 [Ver repositorio](https://github.com/AlexanderOcon/Backend_Gatos_Correcciones)
+🔗 [Ver repositorio](https://github.com/AlexanderOcon/FastBiteMovil)
 
-### 🎨 Frontend Gatos Corrección
-Proyecto de interfaz web para trabajar con las funcionalidades relacionadas con la gestión de gatos.
+### 🍗 Alastapas
+Proyecto relacionado con un restaurante de comida rápida, enfocado en su presencia y soluciones digitales.
 
-🔗 [Ver repositorio](https://github.com/AlexanderOcon/Frontend_Gatos_Correccion)
+🔗 [Ver repositorio](https://github.com/AlexanderOcon/alastapas)
 
 ### 💻 Alexander Individual
 Proyecto individual de desarrollo de software.
 
 🔗 [Ver repositorio](https://github.com/AlexanderOcon/Alexander-Individual)
-
----
 
 ## 📊 Estadísticas de GitHub
 

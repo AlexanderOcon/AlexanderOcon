@@ -1,16 +1,85 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Alexander Ocon
 
-<!--
-**AlexanderOcon/AlexanderOcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Estudiante de Ingeniería en Sistemas | Desarrollador Web y Móvil
 
-Here are some ideas to get you started:
+¡Bienvenido a mi perfil de GitHub! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante de Ingeniería en Sistemas, apasionado por la tecnología y el desarrollo de software. Me gusta crear aplicaciones, trabajar con bases de datos y aprender nuevas herramientas para construir soluciones útiles.
+
+- 🔭 Actualmente trabajo en proyectos de desarrollo web y aplicaciones móviles.
+- 🌱 Estoy aprendiendo y mejorando mis habilidades en React, TypeScript y desarrollo móvil.
+- 💡 Me interesa el desarrollo Full Stack, las APIs y la gestión de bases de datos.
+- ⚡ Siempre dispuesto a aprender algo nuevo.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### Lenguajes de programación
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java" alt="Lenguajes de programación" />
+</p>
+
+### Frameworks y desarrollo
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,reactnative,expo,bootstrap" alt="Frameworks y herramientas de desarrollo" />
+</p>
+
+### Bases de datos y herramientas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,git,github,vscode" alt="Bases de datos y herramientas" />
+</p>
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🛒 TiendaVirtual
+Aplicación web orientada al comercio electrónico.
+
+🔗 [Ver repositorio](https://github.com/AlexanderOcon/TiendaVirtual)
+
+### 🐱 Backend Gatos Correcciones
+Proyecto enfocado en el desarrollo y corrección de funcionalidades del backend.
+
+🔗 [Ver repositorio](https://github.com/AlexanderOcon/Backend_Gatos_Correcciones)
+
+### 🎨 Frontend Gatos Corrección
+Proyecto de interfaz web para trabajar con las funcionalidades relacionadas con la gestión de gatos.
+
+🔗 [Ver repositorio](https://github.com/AlexanderOcon/Frontend_Gatos_Correccion)
+
+### 💻 Alexander Individual
+Proyecto individual de desarrollo de software.
+
+🔗 [Ver repositorio](https://github.com/AlexanderOcon/Alexander-Individual)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexanderOcon&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderOcon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más utilizados" />
+</p>
+
+---
+
+## 🤝 Conectemos
+
+<p>
+  <a href="https://github.com/AlexanderOcon">
+    <img src="https://img.shields.io/badge/GitHub-AlexanderOcon-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+💬 Siempre estoy interesado en aprender, colaborar en proyectos y compartir conocimientos con otros desarrolladores.
+
+---
+
+<p align="center">
+  <b>💻 Code · Learn · Build · Repeat 🚀</b>
+</p>

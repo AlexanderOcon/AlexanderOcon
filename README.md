@@ -24,7 +24,7 @@ Soy estudiante de Ingeniería en Sistemas, apasionado por la tecnología y el de
 ### Frameworks y desarrollo
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,expogo,reactnative,bootstrap" alt="Frameworks y herramientas de desarrollo" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,expo,bootstrap" height="45" alt="React, React Native, Expo y Bootstrap" />
 </p>
 
 ### Estructura y diseño web
